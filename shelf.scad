@@ -1,8 +1,9 @@
 include <closet_space.scad>
 
 sh_tot_height=80;
-sh_width=0.75;
-sh_depth=16;
+sh_width=5/8;
+//sh_depth=15+3/4;
+sh_depth=12;
 sh_length=24;
 sh_brkt_height=2;
 units=" inches ";

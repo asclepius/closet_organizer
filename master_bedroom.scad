@@ -2,7 +2,7 @@ include <closet_space.scad>
 include <shelf.scad>
 include <rod.scad>
 
-//% closet_space();
+% closet_space();
 
 minimum_pants_length=35;
 rod_length=(cl_rct_ln-sh_length-2*sh_width)/2;
